@@ -1,0 +1,286 @@
+{
+    "name": {
+        "en": "Jeremie BERUBE",
+
+        "fr": "Jeremie BERUBE"
+    },
+
+    "intro": {
+        "en": "Quality Assurance - 6 years experience Automation and Manual tester",
+
+        "fr": ""
+    },
+
+    "presentation": {
+        "en": "Great self Learning skills and good mentoring capabilities. Good in problem solving, technical troubleshooting. Team player.",
+        
+        "fr": ""
+    },
+
+    "experience": {
+        "en": [
+            {
+                "position": "Automation Tester",
+                "duration": "2021 - Present",
+                "company": "iForex",
+                "description": [
+                    "Design automation test using the automation framework of the compagny.",
+                    "Developping the automation framework."           
+                ]
+            },
+            {
+                "position": "Manual Tester Mobile and Web",
+                "duration": "2017 - Present",
+                "company": "iForex",
+                "description": [
+                    "Full Life Cycle testing - Test Plan, Test Case, Bug tracking.",
+                    "Part of the the product design.",
+                    "Trainning of new coworker QA in the team."
+                ]
+            },
+            {
+                "position": "Technical support",
+                "duration": "2012 - 2017",
+                "company": "iForex",
+                "description": [
+                    "Technical assistance for customer.",
+                    "Investigating malfunctions / bug in the company’s products, escalated to RND.",
+                    "Performing QA tests."
+                ]
+            },
+            {
+                "position": "Helpdesk",
+                "duration": "2012 - 2017",
+                "company": "iForex",
+                "description": [
+                    "User management.",
+                    "Hardware and Software assistance."
+                ]
+            },
+            {
+                "position": "Dealer (Over the phone)",
+                "duration": "2012 - 2017",
+                "company": "iForex",
+                "description": [
+                    "Providing market information to the customers.",
+                    "Monitoring market and market events."
+                ]
+            }
+        ],
+
+        "fr": [
+            {
+                "position": "",
+                "duration": "",
+                "company": "",
+                "description": [
+                    ""
+                ]
+            },
+            {
+                "position": "",
+                "duration": "",
+                "company": "",
+                "description": [
+                    ""
+                ]
+            }
+        ]
+    },
+
+    "skills": {
+        "en": [
+            {
+                "knowlegde": "Docker",
+                "level": "",
+                "description": [
+                    "Build image.",
+                    "Developing automation grid using repo Aerokube, docker compose and pwsh."
+                ]
+            },
+            {
+                "knowlegde": "Python",
+                "level": "",
+                "description": [
+                    "Developing pytest plugin.",
+                    "Developing automation framework."
+                ]
+            },
+            {
+                "knowlegde": "C#",
+                "level": "",
+                "description": [
+                    "Part of development automation framework."
+                ]
+            },
+            {
+                "knowlegde": "HTML CSS JS",
+                "level": "",
+                "description": [
+                    "Developing a dashboard displaying running test on docker",
+                    "Developping chrome extension to open internal report."
+                ]
+            },
+            {
+                "knowlegde": "Selenium",
+                "level": "",
+                "description": [
+                    "Webdriver manager developpement for python framework.",
+                    "Developping chrome extension to open internal report."
+                ]
+            },
+            {
+                "knowlegde": "Appium",
+                "level": "",
+                "description": [
+                    "Contributing to repo Aerokube.",
+                    "building docker appium images."
+                ]
+            },
+            {
+                "knowlegde": "Jenkins",
+                "level": "",
+                "description": [
+                    "Creating pipeline declarative job.",
+                    "Managing agents."
+                ]
+            },
+            {
+                "knowlegde": "Version Control System",
+                "level": "",
+                "description": [
+                    "Azure DevOps - Git.",
+                    "Azure DevOps - Team Foundation Version Control (TFVC)."
+                ]
+            },
+            {
+                "knowlegde": "WorkFlow",
+                "level": "",
+                "description": [
+                    "Agile Development.",
+                    "Scrum."
+                ]
+            },
+            {
+                "knowlegde": "Office",
+                "level": "",
+                "description": [
+                    "Pack Office.",
+                    "MS Access."
+                ]
+            },
+            {
+                "knowlegde": "T-SQL",
+                "level": "",
+                "description": [
+                    "CRUD.",
+                    "Scripting"
+                ]
+            },
+            {
+                "knowlegde": "MySQL",
+                "level": "",
+                "description": [
+                    "CRUD."
+                ]
+            },
+            {
+                "knowlegde": "Linux",
+                "level": "",
+                "description": [
+                    "Managing linux agent use to run automation test."
+                ]
+            }
+        ],
+
+        "fr": [
+            {
+                "knowlegde": "",
+                "level": "",
+                "description": [
+
+                ]
+            }
+        ]
+
+    },
+
+    "education": {
+        "en": [
+            {
+                "degree": "Computer and IT fields",
+                "duration": "2011 - Present",
+                "university": "Self-educated"
+            },
+            {
+                "degree": "High school",
+                "duration": "2003",
+                "university": "Normandie - France"
+            }
+        ],
+
+        "fr": [
+            {
+                "degree": "",
+                "duration": "",
+                "university": ""
+            }
+        ]
+    },
+
+    "languages": {
+        "en": [
+            {
+                "language": "French",
+                "level": "Native"
+            },
+            {
+                "language": "English",
+                "level": "Fluent"
+            },
+            {
+                "language": "Hebrew",
+                "level": "Speaking"
+            }
+        ],
+
+        "fr": [
+            {
+                "language": "Français",
+                "level": "Langue maternelle"
+            },
+            {
+                "language": "Anglais",
+                "level": "Courant"
+            },
+            {
+                "language": "Hebreu",
+                "level": "Parle"
+            }
+        ]
+    },
+
+    "hobbies": {
+        "en": [
+            {
+                "name": "Retro Gaming",
+                "description": "Play old games."
+            },
+            {
+                "name": "Circus Arts",
+                "description": "Jugglings - skill toys."
+            }
+        ],
+
+        "fr": [
+            {
+                "name": "",
+                "description": ""
+            },
+            {
+                "name": "",
+                "description": ""
+            }
+        ]
+    }
+}
