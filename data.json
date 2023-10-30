@@ -25,7 +25,7 @@
                 "company": "iForex",
                 "description": [
                     "Design automation test using the automation framework of the compagny.",
-                    "Developping the automation framework."           
+                    "Developing the automation framework."           
                 ]
             },
             {
@@ -33,18 +33,18 @@
                 "duration": "2017 - Present",
                 "company": "iForex",
                 "description": [
-                    "Full Life Cycle testing - Test Plan, Test Case, Bug tracking.",
+                    "Full life cycle testing - test plan, test case, bug tracking.",
                     "Part of the the product design.",
                     "Trainning of new coworker QA in the team."
                 ]
             },
             {
-                "position": "Technical support",
+                "position": "Technical Support",
                 "duration": "2012 - 2017",
                 "company": "iForex",
                 "description": [
-                    "Technical assistance for customer.",
-                    "Investigating malfunctions / bug in the company’s products, escalated to RND.",
+                    "Technical assistance for customers.",
+                    "Investigating malfunctions / bugs in the company’s products, escalated to RND.",
                     "Performing QA tests."
                 ]
             },
@@ -95,7 +95,7 @@
                 "level": "",
                 "description": [
                     "Build image.",
-                    "Developing automation grid using repo Aerokube, docker compose and pwsh."
+                    "Developing automation grid using repo Aerokube, docker compose and PowerShell."
                 ]
             },
             {
@@ -117,8 +117,8 @@
                 "knowlegde": "HTML CSS JS",
                 "level": "",
                 "description": [
-                    "Developing a dashboard displaying running test on docker",
-                    "Developping chrome extension to open internal report."
+                    "Developing a dashboard displaying running tests on docker.",
+                    "Developing chrome extension to open internal reports."
                 ]
             },
             {
@@ -126,7 +126,7 @@
                 "level": "",
                 "description": [
                     "Webdriver manager developpement for python framework.",
-                    "Developping chrome extension to open internal report."
+                    "Usage in automation framework."
                 ]
             },
             {
@@ -134,14 +134,14 @@
                 "level": "",
                 "description": [
                     "Contributing to repo Aerokube.",
-                    "building docker appium images."
+                    "Building docker appium images."
                 ]
             },
             {
                 "knowlegde": "Jenkins",
                 "level": "",
                 "description": [
-                    "Creating pipeline declarative job.",
+                    "Creating pipeline declarative jobs.",
                     "Managing agents."
                 ]
             },
@@ -162,7 +162,7 @@
                 ]
             },
             {
-                "knowlegde": "Office",
+                "knowlegde": "MS Office",
                 "level": "",
                 "description": [
                     "Pack Office.",
