@@ -232,30 +232,30 @@
         "en": [
             {
                 "language": "French",
-                "level": "Native"
+                "level": "Native."
             },
             {
                 "language": "English",
-                "level": "Fluent"
+                "level": "Fluent."
             },
             {
                 "language": "Hebrew",
-                "level": "Speaking"
+                "level": "Speaking."
             }
         ],
 
         "fr": [
             {
                 "language": "Français",
-                "level": "Langue maternelle"
+                "level": "Langue maternelle."
             },
             {
                 "language": "Anglais",
-                "level": "Courant"
+                "level": "Courant."
             },
             {
                 "language": "Hebreu",
-                "level": "Parle"
+                "level": "Parle."
             }
         ]
     },
