@@ -173,15 +173,15 @@
                 "knowlegde": "T-SQL",
                 "level": "",
                 "description": [
-                    "CRUD.",
-                    "Scripting"
+                    "Create, Read, Update, and Delete.",
+                    "Scripting."
                 ]
             },
             {
                 "knowlegde": "MySQL",
                 "level": "",
                 "description": [
-                    "CRUD."
+                    "Create, Read, Update, and Delete."
                 ]
             },
             {

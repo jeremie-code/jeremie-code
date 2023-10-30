@@ -52,7 +52,7 @@ function displayContent(language, config) {
 
 // Function to switch to French
 function switchToFrench() {
-    alert("Bientot disponible, ravaux en cours!" + "\n" + "Soon available, work in progress!");
+    alert("Bientot disponible, Travaux en cours!" + "\n" + "Soon available, work in progress!");
     switchToEnglish();
     // fetch('./data.json')
     //     .then(response => response.json())
