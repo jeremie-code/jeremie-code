@@ -19,7 +19,7 @@ function displayContentDescription(language, config) {
 function displayContentExperience(language, config) {
     var experienceList = '';
     config.experience[language].forEach(function (exp) {
-        experienceList += '<li class=""><strong>' + exp.position + '</strong> - ' + exp.duration + ' at ' + exp.company + '<ul>';
+        experienceList += '<li class=""><strong>' + exp.position + '</strong> - ' + '<em>' + exp.duration + ' at ' + exp.company + '</em>' + '<ul>';
         exp.description.forEach(function (desc) {
             experienceList += '<li>' + desc + '</li>';
         });
@@ -32,7 +32,7 @@ function displayContentExperience(language, config) {
 function displayContentSkills(language, config) {
     var skillsList = '';
     config.skills[language].forEach(function (ski) {
-        skillsList += '<li class=""><strong>' + ski.knowlegde + '</strong> - ' + ski.level + '<ul>';
+        skillsList += '<li class=""><strong>' + ski.knowlegde + '</strong> - ' + '<em>' + ski.level + '</em>' + '<ul>';
         ski.description.forEach(function (desc) {
             skillsList += '<li>' + desc + '</li>';
         });
@@ -45,7 +45,7 @@ function displayContentSkills(language, config) {
 function displayContentEducation(language, config) {
     var educationList = '';
     config.education[language].forEach(function (edu) {
-        educationList += '<li class=""><strong>' + edu.degree + '</strong>, ' + edu.duration + ' at ' + edu.university + '</li>';
+        educationList += '<li class=""><strong>' + edu.degree + '</strong>, ' + '<em>' + edu.duration + ' at ' + edu.university + '</em>' + '</li>';
     });
     document.getElementById('educationList').innerHTML = educationList;
 };

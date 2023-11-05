@@ -30,25 +30,29 @@
     <!-- Navbar -->
     <nav class="navbar navbar-expand-lg bg-dark navbar-dark py-3 fixed-top">
         <div class="container">
-            <a href="#" class="navbar-brand">Resume's Jérémie</a>
-
-            <button id="flagFr" type="button" class="btn me-3" onclick="switchToFrench()">
-                <!-- <img src="./images/flag-fr-svgrepo-com.svg" width="25" height="25" alt="Flag France"> -->
-            </button>
-
-            <button id="flagEn" type="button" class="btn me-3" onclick="switchToEnglish()" tooptips>
-                <!-- <img src="./images/flag-gb-svgrepo-com.svg" width="25" height="25" alt="Flag English"> -->
-            </button>
 
             <a class="text-light text-decoration-none me-3" href="mailto:be.jeremie@gmail.com">
                 <i class="bi bi-person-fill"></i>
                 be.jeremie@gmail.com
             </a>
-            <a class="text-light text-decoration-none me-2" href="./resume/CV_en.docx" download>
-                <i class="bi bi-cloud-arrow-down-fill"></i> Docx version
-            </a>
 
-            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navmenu">
+            <button id="flagFr" type="button" class="btn me-3" onclick="switchToFrench()">
+            </button>
+
+            <button id="flagEn" type="button" class="btn me-3" onclick="switchToEnglish()" tooptips>
+            </button>
+
+            <div>
+                <a class="text-light text-decoration-none me-2" href="./resume/CV_fr.docx" download>
+                    <i class="bi bi-cloud-arrow-down-fill"></i> Docx Fr
+                </a>
+    
+                <a class="text-light text-decoration-none me-2" href="./resume/CV_en.docx" download>
+                    <i class="bi bi-cloud-arrow-down-fill"></i> Docx En
+                </a>
+            </div>
+
+            <button class="navbar-toggler m-2" type="button" data-bs-toggle="collapse" data-bs-target="#navmenu">
                 <span class="navbar-toggler-icon"></span>
             </button>
             <div class="collapse navbar-collapse" id="navmenu">
@@ -88,12 +92,12 @@
     </section>
 
     <!-- Experience Sections -->
-    <section id="experience" class="p-5">
+    <section id="experience" class="pt-4 pb-4">
         <div class="container">
             <div class="row align-items-center justify-content-between">
                 <div class="col-md">
                 </div>
-                <div class="col-md p-5">
+                <div class="col-md pt-5 pb-5">
                     <h2 id="experienceTitle">Experience</h2>
                     <ul class="" id="experienceList"></ul>
                 </div>
@@ -102,10 +106,10 @@
     </section>
 
     <!-- Skills Sections -->
-    <section id="skills" class="p-5 bg-dark text-light">
+    <section id="skills" class="pt-4 pb-4 bg-dark text-light">
         <div class="container">
             <div class="row align-items-center justify-content-between">
-                <div class="col-md p-5">
+                <div class="col-md pt-5 pb-5">
                     <h2 id="skillsTitle">Skills</h2>
                     <ul class="" id="skillsList"></ul>
                 </div>
@@ -116,12 +120,12 @@
     </section>
 
     <!-- Education Sections -->
-    <section id="education" class="p-5">
+    <section id="education" class="pt-4 pb-4">
         <div class="container">
             <div class="row align-items-center justify-content-between">
                 <div class="col-md">
                 </div>
-                <div class="col-md p-5">
+                <div class="col-md pt-5 pb-5">
                     <h2 id="educationTitle">Education</h2>
                     <ul class="" id="educationList"></ul>
                 </div>
@@ -130,10 +134,10 @@
     </section>
 
     <!-- Languages Sections-->
-    <section id="languages" class="p-5 bg-dark text-light">
+    <section id="languages" class="pt-4 pb-4 bg-dark text-light">
         <div class="container">
             <div class="row align-items-center justify-content-between">
-                <div class="col-md p-5">
+                <div class="col-md pt-5 pb-5">
                     <h2 id="languagesTitle">Languages</h2>
                     <ul class="" id="languagesList"></ul>
                 </div>
@@ -142,12 +146,12 @@
     </section>
 
     <!-- Hobbies Sections -->
-    <section id="hobbies" class="p-5">
+    <section id="hobbies" class="pt-4 pb-4">
         <div class="container">
             <div class="row align-items-center justify-content-between">
                 <div class="col-md">
                 </div>
-                <div class="col-md p-5">
+                <div class="col-md pt-5 pb-5">
                     <h2 id="hobbiesTitle">Hobbies</h2>
                     <ul class="" id="hobbiesList"></ul>
                 </div>
