@@ -6,7 +6,7 @@
     },
 
     "intro": {
-        "en": "Quality Assurance - 6 years experience Automation and Manual tester",
+        "en": "Quality Assurance Tester - 8 years experience in Automation and Manual Tesing",
 
         "fr": ""
     },
@@ -25,7 +25,8 @@
                 "company": "iForex",
                 "description": [
                     "Design automation test using the automation framework of the compagny.",
-                    "Developing the automation framework."           
+                    "Developer automation framework.",
+                    "DevOps for the automation team."
                 ]
             },
             {
@@ -173,6 +174,7 @@
                 "knowlegde": "T-SQL",
                 "level": "",
                 "description": [
+                    "Developer procedure, function, view.",
                     "Create, Read, Update, and Delete.",
                     "Scripting."
                 ]
@@ -182,6 +184,13 @@
                 "level": "",
                 "description": [
                     "Create, Read, Update, and Delete."
+                ]
+            },
+            {
+                "knowlegde": "PowerBI",
+                "level": "",
+                "description": [
+                    "Creating Report and dashboard"
                 ]
             },
             {
